@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @markpowen
-- 👀 I’m interested in optimal investment problems (convex optimization) and mathematical finance
+- 👀 I’m interested in mathematical finance, optimal investment in financial markets and convex optimization in general.
 - 📫 You can find me on linkedin at https://www.linkedin.com/in/mark-p-owen/
 
 <!---
